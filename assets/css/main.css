@@ -3916,6 +3916,7 @@ input, select, textarea {
 	  position: absolute;
 	  bottom: 10px;
 	  right: 20px;
+	  left: 20px;	
 	  font-family: "Source Sans Pro", Helvetica, sans-serif;
 	  font-size: 1rem;
 	  font-weight: 300;
