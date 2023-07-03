@@ -3911,10 +3911,10 @@ input, select, textarea {
 
 	/* Bottom right text */
 	.bottom-right {
+	  color: white;	
 	  position: absolute;
-	  bottom: 8px;
-	  right: 16px;
-	  color: #ffffff;
+	  bottom: 10px;
+	  right: 20px;
 	  font-family: "Source Sans Pro", Helvetica, sans-serif;
 	  font-size: 1rem;
 	  font-weight: 300;
