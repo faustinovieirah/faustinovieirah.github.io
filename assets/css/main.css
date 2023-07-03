@@ -3911,7 +3911,8 @@ input, select, textarea {
 
 	/* Bottom right text */
 	.bottom-right {
-	  color: white;	
+	  color: white;
+	  background-color: rgba(144, 144, 144, 0.3);
 	  position: absolute;
 	  bottom: 10px;
 	  right: 20px;
