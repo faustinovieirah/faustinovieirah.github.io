@@ -3885,7 +3885,7 @@ input, select, textarea {
 	.container {
 	  position: relative;
 	  text-align: center;
-	  color: black;
+	  color: white;
 	}
 
 	/* Bottom left text */
@@ -3914,6 +3914,11 @@ input, select, textarea {
 	  position: absolute;
 	  bottom: 8px;
 	  right: 16px;
+	  color: #ffffff;
+	  font-family: "Source Sans Pro", Helvetica, sans-serif;
+	  font-size: 1rem;
+	  font-weight: 300;
+	  letter-spacing: 0.0375em;
 	}
 
 	/* Centered text */
