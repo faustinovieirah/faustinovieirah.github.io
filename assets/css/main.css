@@ -2596,7 +2596,7 @@ input, select, textarea {
 */
 		background-color: #C7DBF0;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("images/m51_final_brighter.jpg");
+		background-image: url("images/overlay.png"), url("images/M51_obs_small.png");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
@@ -3081,7 +3081,7 @@ input, select, textarea {
 			#footer {
 				background-attachment: scroll;
 				background-color: #1f1815;
-				background-image: url("images/overlay.png"), url("images/m51_final_brighter.jpg");
+				background-image: url("images/overlay.png"), url("images/M51_obs_small.png");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
